@@ -2,7 +2,7 @@
 	"versioninfo": {
 		"name":"Community List",
 		"date":"2024-05-13",
-		"version": "15"
+		"version": "16"
 	},
 	"avatars": [
 	{
@@ -263,6 +263,13 @@
 		"author":"Romuraisu",
 		"description":"",
 		"tags":["rank_medium","furry"]
+	},
+	{
+		"blueprintid":"avtr_ab6bb84b-21a1-4d4d-83b0-c5b03608b92c",
+		"name":"LASERCANOE",
+		"author":"Hexson",
+		"description":"",
+		"tags":["rank_medium"]
 	}
 	]
 }
