@@ -1,8 +1,8 @@
 {
 	"versioninfo": {
 		"name":"Community List",
-		"date":"2025-02-24",
-		"version": "16"
+		"date":"2025-04-20",
+		"version": "17"
 	},
 	"avatars": [
 	{
@@ -270,6 +270,13 @@
 		"author":"Hexson",
 		"description":"",
 		"tags":["rank_medium"]
+	},
+	{
+		"blueprintid":"avtr_2a37a5a5-71ad-4ac7-a0bd-5edde820f531",
+		"name":"Tioru LD",
+		"author":"kitofox",
+		"description":"",
+		"tags":["rank_unranked","furry"]
 	}
 	]
 }
