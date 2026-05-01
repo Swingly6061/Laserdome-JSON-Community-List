@@ -1,8 +1,8 @@
 {
 	"versioninfo": {
 		"name":"Community List",
-		"date":"2025-04-20",
-		"version": "18"
+		"date":"2026-05-01",
+		"version": "19"
 	},
 	"avatars": [
 	{
@@ -277,6 +277,13 @@
 		"author":"kitofox",
 		"description":"",
 		"tags":["rank_good","furry"]
+	},
+	{
+		"blueprintid":"avtr_d29b30eb-bd21-47f6-9387-e18a22c0e475",
+		"name":"LaserDome Kon",
+		"author":"Garloid",
+		"description":"",
+		"tags":["rank_good","anime"]
 	}
 	]
 }
