@@ -1,8 +1,8 @@
 {
 	"versioninfo": {
 		"name":"Community List",
-		"date":"2026-05-01",
-		"version": "20"
+		"date":"2026-05-23",
+		"version": "21"
 	},
 	"avatars": [
 	{
@@ -291,6 +291,13 @@
 		"author":"Drischa",
 		"description":"Public version of Vitabug V2․ Please consider supporting me and getting the files on Ko-Fiǃ",
 		"tags":["rank_good","robot"]
+	},
+	{
+		"blueprintid":"avtr_772ef805-8f42-4ff0-a3f3-9d4ad38fbd62",
+		"name":"Teh'vali Laserdome",
+		"author":"Swingly",
+		"description":"",
+		"tags":["rank_good","furry"]
 	}
 	]
 }
